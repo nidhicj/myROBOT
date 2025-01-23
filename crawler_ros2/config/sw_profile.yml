@@ -1,0 +1,21 @@
+0:
+  fl_sw:
+    servo: 152.75
+  fr_sw:
+    servo: 93.8
+  bl_sw:
+    servo: 82.2
+  br_sw:
+    servo: 73.2
+
+1:
+
+  fl_sw:
+    servo: 182.75
+  fr_sw:
+    servo: 63.8
+  bl_sw:
+    servo: 48.7
+  br_sw:
+    servo: 103.8
+

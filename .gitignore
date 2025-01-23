@@ -1,0 +1,4 @@
+__pycache__/
+
+crawler_ros2/controller/__pycache__/controller.cpython-310.pyc
+crawler_ros2/ui/__pycache__/joystick.cpython-310.pyc
